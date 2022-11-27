@@ -6,7 +6,7 @@ Almost every amateur astronomer, including me, captures star trails at some poin
 
 ## Usage
 
-Due to the large size, the full set of images can be downloaded from the following box.com link:
+Due to the large size, the full set of sample images can be downloaded from the following box.com link:
 https://app.box.com/s/rwqck3fetwx1b0p4zjbk829iwb8ic04k
 
 Once downloaded, enter the proper directory in the terminal and run the command, './stack image-data OUTFILE.bmp'
